@@ -227,7 +227,7 @@ def main():
     st.markdown(
         """
         <div class="footer">
-            <p>Web diseñada y desarrollada por Francisco Javier Aros Muñoz</p>
+            <p>Web diseñada y desarrollada por Francisco Javier Aros Muñoz.. Geógrafo - Mg. en Planificación y Gestión Territorial</p>
             <a href="mailto:franciscoarosmunoz@gmail.com">franciscoarosmunoz@gmail.com</a>
         </div>
         """,
