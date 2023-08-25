@@ -9,6 +9,3 @@ requests
 geopandas
 folium
 ipyleaflet
-streamlit.components.v1
-streamlit_folium
-CustomIcon
